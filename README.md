@@ -31,9 +31,9 @@ O problema apresentado consistia na dificuldade enfrentada por estudantes e prof
 
 Como solução, minha equipe desenvolveu o Scrum Academy, uma plataforma web que busca disseminar o método Scrum de maneira fácil e acessível. O site reúne em um só lugar conteúdos sobre ferramentas, métodos, características e aplicações da metodologia. Com linguagem simples e estrutura clara, permite que qualquer pessoa, com ou sem experiência, aprenda desde os fundamentos do Scrum até dicas para aprimorar suas habilidades no ambiente de trabalho.
 
-[🔗 Repositório do Scrum Academy](https://github.com/ColossusAPI/ScrumAcademy)
-
 ![ScrumAcademy](Imgs/Projeto1/videoapi.gif)
+
+[🔗 Repositório do Scrum Academy](https://github.com/ColossusAPI/ScrumAcademy)
 
 #### ⚙️ Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:

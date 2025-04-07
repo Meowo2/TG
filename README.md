@@ -1,5 +1,5 @@
 # Arthur Sousa
-<img src="https://github.com/user-attachments/assets/4a9c0eb6-607d-4b61-ab13-61854822b320" alt="Imagem Scrum" width="350"/>
+<img src="Imgs/img/arthur.webp" alt="Arthur" width="350"/>
 
 Me chamo Arthur Sousa, tenho 20 anos e meu interesse pela computação começou na infância, sendo reforçado aos 13 anos quando participei do clube de robótica da escola. Nessa experiência, tive meu primeiro contato com lógica de programação e aprendi o básico de Python, o que me motivou a aprofundar meus conhecimentos e buscar uma faculdade na área de tecnologia. Foi assim que encontrei a FATEC São José dos Campos, onde iniciei minha graduação.
 
@@ -32,6 +32,7 @@ O problema apresentado consistia na dificuldade enfrentada por estudantes e prof
 Como solução, minha equipe desenvolveu o Scrum Academy, uma plataforma web que busca disseminar o método Scrum de maneira fácil e acessível. O site reúne em um só lugar conteúdos sobre ferramentas, métodos, características e aplicações da metodologia. Com linguagem simples e estrutura clara, permite que qualquer pessoa, com ou sem experiência, aprenda desde os fundamentos do Scrum até dicas para aprimorar suas habilidades no ambiente de trabalho.
 
 [🔗 Repositório do Scrum Academy](https://github.com/ColossusAPI/ScrumAcademy)
+<img src="Imgs/Projeto1/videoapi.gif" alt="ScrumAcademy"/>
 
 #### ⚙️ Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:

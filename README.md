@@ -45,7 +45,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **Amazon Web Services (AWS)** – Plataforma utilizada para hospedagem e disponibilização do site na web.
 
 #### 👨‍🔧 Contribuições Pessoais
-Nesse projeto atuei principalmente no desenvolvimento front-end, sendo responsável pela implementação da página principal de testes e contribuindo também na estruturação de outras interfaces. Utilizei HTML, CSS e Bootstrap para a construção visual e responsiva das páginas, seguindo os protótipos definidos no Figma.
+Nesse projeto atuei como Dev Team, principalmente no desenvolvimento front-end, sendo responsável pela implementação da página principal de testes e contribuindo também na estruturação de outras interfaces. Utilizei HTML, CSS e Bootstrap para a construção visual e responsiva das páginas, seguindo os protótipos definidos no Figma.
 Além disso, colaborei com o back-end utilizando o microframework Flask, ajudando na criação e ajuste das rotas responsáveis pela lógica de envio e recebimento das respostas dos testes. Essa funcionalidade exigia integração entre o front-end e as rotas do Flask, garantindo que os dados dos usuários fossem corretamente capturados, armazenados e verificados.
 A interação com o time foi constante, especialmente nas definições de layout e adaptação dos protótipos para situações reais de uso.
 
@@ -87,7 +87,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **Microsoft Office** - Ferramenta utilizada na criação da apresentação para o cliente.
 
 #### 👨‍🔧 Contribuições Pessoais
-Neste projeto, atuei diretamente na configuração, integração e utilização das APIs da Hugging Face, sendo responsável por conectar o modelo de Processamento de Linguagem Natural (PLN) à aplicação Java Desktop.
+Neste projeto, atuei como Dev Team diretamente na configuração, integração e utilização das APIs da Hugging Face, sendo responsável por conectar o modelo de Processamento de Linguagem Natural (PLN) à aplicação Java Desktop.
 Implementei a lógica de leitura e extração de conteúdo de arquivos TXT, permitindo que os textos fossem analisados pela LLM. Também desenvolvi uma estrutura de memória para o modelo, possibilitando que o assistente virtual mantivesse o contexto durante interações mais longas e respondesse de forma mais precisa e coerente.
 Contribuí na configuração do ambiente Gradle, definindo dependências e facilitando a automação de builds da aplicação. Também participei ativamente da organização e estruturação das telas da interface, colaborando para garantir uma navegação lógica e intuitiva no aplicativo.
 Além disso, ajudei na integração entre o processamento textual e o banco de dados MySQL, permitindo o registro e a recuperação de interações. Participei da validação dos retornos da IA, realizando testes práticos com diferentes tipos de entrada e ajustando parâmetros para melhorar a experiência do usuário.
@@ -134,7 +134,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **Microsoft Office** – Utilizado para a construção da apresentação final entregue ao cliente.
 
 #### 👨‍🔧 Contribuições Pessoais
-Minhas principais contribuições neste projeto envolveram tanto o front-end quanto o back-end.
+Minhas principais contribuições como Dev Team neste projeto envolveram tanto o front-end quanto o back-end.
 No front-end, fui responsável pela implementação dos gráficos interativos com Chart.js, permitindo a visualização de métricas como desempenho dos vendedores e volume de vendas em tempo real. Além disso, participei ativamente da criação e organização das telas do sistema, colaborando no design visual, definição de layout e responsividade com Tailwind CSS.
 No back-end, implementei a criptografia de senhas utilizando hashing (bcrypt) para garantir a segurança no armazenamento dos dados sensíveis no banco MySQL. Também participei de testes e validações das rotas da API.
 
@@ -181,7 +181,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **Microsoft Office** – Ferramenta utilizada para elaborar a apresentação final do projeto ao cliente.
 
 #### 👨‍🔧 Contribuições Pessoais
-Contribuí ativamente no desenvolvimento da interface de criação de reembolsos, utilizando React Native com TypeScript, onde implementei a lógica de estado e controle dos campos dinâmicos para permitir ao usuário adicionar múltiplas despesas em um único envio. Essa funcionalidade incluiu validações em tempo real, tratamento de erros e integração com a API para persistência no banco de dados.
+Como Dev Team contribuí ativamente no desenvolvimento da interface de criação de reembolsos, utilizando React Native com TypeScript, onde implementei a lógica de estado e controle dos campos dinâmicos para permitir ao usuário adicionar múltiplas despesas em um único envio. Essa funcionalidade incluiu validações em tempo real, tratamento de erros e integração com a API para persistência no banco de dados.
 
 Também fui responsável pela página de listagem de despesas, onde desenvolvi a exibição dos dados armazenados no banco SQL, consumindo uma API REST para exibir informações como: descrição da despesa, status do reembolso, data e valor. Implementei filtros básicos por data utilizando hooks e otimizei o carregamento para melhor desempenho em dispositivos móveis.
 

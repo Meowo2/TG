@@ -100,7 +100,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 * Eclipse: Uso com autonomia;
 * MySQL: Uso com autonomia;
 * GitHub: Uso com autonomia;
-* Figma: Possuo autonomia para ensinar.
+* Figma: Uso com autonomia.
 
   
 #### 💬 Soft Skills
@@ -141,17 +141,17 @@ No back-end, implementei a criptografia de senhas utilizando hashing (bcrypt) pa
 
 #### 💻 Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
-*HTML: Uso com autonomia;
-*CSS: Uso com autonomia;
-*Tailwind: Uso com autonomia;
-*JavaScript: Uso com autonomia;
-*Node.js: Uso com autonomia;
-*Express: Uso com autonomia;
-*Sequelize: Uso com autonomia;
-*MySQL: Uso com autonomia;
-*TypeScript: Uso com autonomia;
-*React: Uso com autonomia;
-*Git/GitHub: Uso com autonomia.
+* HTML: Uso com autonomia;
+* CSS: Uso com autonomia;
+* Tailwind: Uso com autonomia;
+* JavaScript: Uso com autonomia;
+* Node.js: Uso com autonomia;
+* Express: Uso com ajuda;
+* Sequelize: Uso com ajuda;
+* MySQL: Uso com autonomia;
+* TypeScript: Uso com autonomia;
+* React: Uso com autonomia;
+* Git/GitHub: Uso com autonomia.
 
   
 #### 💬 Soft Skills
@@ -188,10 +188,10 @@ Também fui responsável pela página de listagem de despesas, onde desenvolvi a
 
 #### 💻 Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
-*TypeScript: Uso com autonomia;
-*React Native: Uso com autonomia;
-*PostgreSQL: Uso com autonomia;
-*Consumo de API REST: Uso com autonomia.
+* TypeScript: Uso com autonomia;
+* React Native: Uso com ajuda;
+* PostgreSQL: Uso com autonomia;
+* Consumo de API REST: Uso com autonomia.
 
   
 #### 💬 Soft Skills

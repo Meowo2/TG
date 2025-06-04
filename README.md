@@ -22,7 +22,7 @@ Entre todos meus conhecimentos, se destacam:
 * Gradle
 
 ## 📚 Meus Projetos
-### 📦 Primeiro Semestre (2023-1)
+### 📦 Primeiro Projeto (2023-1)
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria
 Fatec. Os requisitos foram apresentados pelo professor Antonio Egydio, que assumiu o
 papel de cliente final.
@@ -30,8 +30,6 @@ papel de cliente final.
 O problema apresentado consistia na dificuldade enfrentada por estudantes e profissionais iniciantes em encontrar conteúdos organizados, acessíveis e didáticos sobre a metodologia Scrum. Os materiais disponíveis costumam ser fragmentados, excessivamente técnicos ou desatualizados, o que dificulta o aprendizado e a aplicação prática dos conceitos.
 
 Como solução, minha equipe desenvolveu o Scrum Academy, uma plataforma web que busca disseminar o método Scrum de maneira fácil e acessível. O site reúne em um só lugar conteúdos sobre ferramentas, métodos, características e aplicações da metodologia. Com linguagem simples e estrutura clara, permite que qualquer pessoa, com ou sem experiência, aprenda desde os fundamentos do Scrum até dicas para aprimorar suas habilidades no ambiente de trabalho.
-
-![ScrumAcademy](Imgs/Projeto1/videoapi.gif)
 
 [🔗 Repositório do Scrum Academy](https://github.com/ColossusAPI/ScrumAcademy)
 
@@ -53,11 +51,11 @@ A interação com o time foi constante, especialmente nas definições de layout
 
 #### 💻 Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
-* HTML – Uso com autonomia;
-* CSS – Uso com autonomia;
-* AWS – Uso com ajuda;
-* Bootstrap – Uso com autonomia;
-* Flask – Uso com autonomia.
+* HTML: Uso com autonomia;
+* CSS: Uso com autonomia;
+* AWS: Uso com ajuda;
+* Bootstrap: Uso com autonomia;
+* Flask: Uso com autonomia.
   
 #### 💬 Soft Skills
 Durante o desenvolvimento da funcionalidade de testes no site, precisei utilizar minha resolução de problemas para estruturar a lógica do back-end com Flask, pois inicialmente o sistema não armazenava corretamente os dados de resposta dos usuários. Após investigar, percebi que o problema estava na forma como os dados estavam sendo tratados na rota de envio e propus uma reestruturação no fluxo de envio, o que solucionou a inconsistência.
@@ -66,14 +64,12 @@ Além disso, usei minha organização e autonomia para dividir as tarefas de des
 
 ---
 
-### 📦 Segundo Semestre (2023-2)
+### 📦 Segundo Projeto (2023-2)
 O projeto desenvolvido no segundo semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araújo, que assumiu o papel de cliente final.
 
 O problema identificado foi a dificuldade de extrair e compreender rapidamente informações contidas em grandes volumes de texto, especialmente em documentos técnicos ou extensos. Como solução, foi desenvolvido um assistente virtual inteligente capaz de ler arquivos, interpretar o conteúdo por meio de técnicas de Processamento de Linguagem Natural (PLN) e responder perguntas de forma precisa e contextualizada, facilitando o acesso à informação relevante.
 
 O projeto foi implementado como uma aplicação Java Desktop, com integração à plataforma Hugging Face, além de um banco de dados MySQL para armazenamento estruturado das informações processadas.
-
-![📽️ Vídeo demonstração da Zari](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126246097/f4f6e0a2-7787-4672-9cc6-0d4eb06db290)
 
 [🔗 Repositório da Zari](https://github.com/Equipe-Meta-Code/Zari-documentation)
 
@@ -99,11 +95,11 @@ Além disso, ajudei na integração entre o processamento textual e o banco de d
 
 #### 💻 Hard Skills
 Exercitei as seguintes hard skills durante esse projeto:
-* Java: Realizo com autonomia.
-* Gradle: Realizo com autonomia.
-* Eclipse: Realizo com autonomia.
-* MySQL: Realizo com autonomia.
-* GitHub: Realizo com autonomia.
+* Java: Uso com autonomia;
+* Gradle: Uso com autonomia;
+* Eclipse: Uso com autonomia;
+* MySQL: Uso com autonomia;
+* GitHub: Uso com autonomia;
 * Figma: Possuo autonomia para ensinar.
 
   
@@ -111,5 +107,94 @@ Exercitei as seguintes hard skills durante esse projeto:
 Durante o desenvolvimento deste projeto, exerci colaboração ativa com a equipe na definição da arquitetura do sistema e organização das telas da aplicação. Participei de forma consistente das reuniões de planejamento e tomada de decisões técnicas, contribuindo com sugestões para a divisão de funcionalidades e organização visual do aplicativo.
 Demonstrei autonomia e proatividade ao configurar o ambiente Gradle e integrar as APIs da Hugging Face, pesquisando soluções de forma independente e documentando o processo para facilitar a reprodução pelos colegas.
 Utilizei minha capacidade analítica e atenção aos detalhes na implementação da memória do assistente virtual, avaliando o comportamento da LLM com diferentes entradas e ajustando a lógica de persistência de contexto para melhorar a qualidade das respostas.
+
+---
+
+### 📦 Terceiro Projeto (2024-1)
+O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a PRO4TECH.
+
+O projeto do terceiro semestre teve como foco o desenvolvimento de uma solução voltada para a gestão de vendas e desempenho comercial. O desafio enfrentado por muitas empresas estava na falta de um sistema centralizado para organizar dados como o cadastro de clientes, controle de produtos e o acompanhamento da performance dos vendedores. Essa ausência comprometia tanto a análise estratégica quanto a eficiência operacional.
+Para resolver esse problema, desenvolvemos uma plataforma web responsiva e intuitiva, que integra funcionalidades voltadas à visualização de dados, gestão de cadastros e desempenho individual/coletivo da equipe de vendas. O projeto priorizou escalabilidade, segurança e boa experiência de uso, utilizando uma arquitetura moderna baseada em API REST, banco de dados relacional e interface construída com componentes reutilizáveis.
+
+[🔗 Repositório do Nebulon](https://github.com/Byte-Boost/Nebulon)
+
+#### ⚙️ Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+* **HTML, CSS e Tailwind CSS** – Linguagens de marcação e framework utilizados para construção e estilização das interfaces no front-end;
+* **React com TypeScript** – Biblioteca e linguagem utilizadas na criação de componentes reutilizáveis e responsivos na interface do usuário;
+* **Node.js e Express** – Ambiente de execução e framework utilizados no desenvolvimento da API REST e na estruturação das rotas do back-end;
+* **JavaScript** – Linguagem de programação utilizada tanto no front-end quanto no back-end;
+* **Sequelize** – ORM utilizado para modelagem e manipulação do banco de dados relacional;
+* **MySQL** – Banco de dados utilizado para persistência e organização das informações da aplicação;
+* **Chart.js** – Biblioteca utilizada na criação de gráficos interativos para visualização de dados de desempenho;
+* **GitHub** – Plataforma utilizada para versionamento de código e documentação do projeto;
+* **Figma** – Ferramenta de prototipação usada na criação e organização das telas da aplicação;
+* **Trello** – Ferramenta utilizada para planejamento e acompanhamento das tarefas em equipe;
+* **Microsoft Office** – Utilizado para a construção da apresentação final entregue ao cliente.
+
+#### 👨‍🔧 Contribuições Pessoais
+Minhas principais contribuições neste projeto envolveram tanto o front-end quanto o back-end.
+No front-end, fui responsável pela implementação dos gráficos interativos com Chart.js, permitindo a visualização de métricas como desempenho dos vendedores e volume de vendas em tempo real. Além disso, participei ativamente da criação e organização das telas do sistema, colaborando no design visual, definição de layout e responsividade com Tailwind CSS.
+No back-end, implementei a criptografia de senhas utilizando hashing (bcrypt) para garantir a segurança no armazenamento dos dados sensíveis no banco MySQL. Também participei de testes e validações das rotas da API.
+
+
+#### 💻 Hard Skills
+Exercitei as seguintes hard skills durante esse projeto:
+*HTML: Uso com autonomia;
+*CSS: Uso com autonomia;
+*Tailwind: Uso com autonomia;
+*JavaScript: Uso com autonomia;
+*Node.js: Uso com autonomia;
+*Express: Uso com autonomia;
+*Sequelize: Uso com autonomia;
+*MySQL: Uso com autonomia;
+*TypeScript: Uso com autonomia;
+*React: Uso com autonomia;
+*Git/GitHub: Uso com autonomia.
+
+  
+#### 💬 Soft Skills
+Durante o projeto, exerci minha comunicação ao colaborar com a equipe no alinhamento das telas do sistema, propondo ajustes de layout no Figma para garantir uma boa experiência do usuário. Demonstrei autonomia e organização ao gerenciar minhas tarefas de forma independente, garantindo a entrega das funcionalidades de gráficos e segurança dentro dos prazos.
+Também contribuí indiretamente na tratativa de requisitos com o cliente, auxiliando o Product Owner na validação de funcionalidades e no esclarecimento de dúvidas técnicas durante o processo de levantamento, o que ajudou a manter o alinhamento entre as demandas do cliente e as entregas do time.
+
+---
+
+### 📦 Quarto Projeto (2025-1)
+O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW.
+
+O projeto desenvolvido no quarto semestre teve como objetivo solucionar a gestão ineficiente de reembolsos e despesas em empresas, que era dificultada por processos manuais e pela falta de integração entre os setores. Essa ineficiência comprometia a agilidade e a transparência no controle financeiro, gerando retrabalho e atrasos nos reembolsos.
+Como solução, foi desenvolvida uma aplicação móvel que permite que os funcionários cadastrem suas despesas diretamente pelo celular, visualizem o status de cada reembolso e acompanhem o histórico de gastos. A proposta foca em simplicidade, usabilidade e centralização das informações, promovendo agilidade no processo e maior controle por parte do usuário.
+
+[🔗 Repositório do ExpenseFlow](https://github.com/Byte-Boost/Backend_ExpenseFlow)
+
+#### ⚙️ Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+* **TypeScript** – Linguagem de programação utilizada no front-end da aplicação mobile;
+* **JavaScript** – Linguagem utilizada no desenvolvimento do back-end;
+* **React Native** – Biblioteca usada para construção das interfaces da aplicação móvel, integrada ao TypeScript;
+* **PostgreSQL** – Banco de dados relacional utilizado para armazenar informações de login e dados das despesas;
+* **GitHub** – Utilizado para versionamento do código-fonte e colaboração entre os membros da equipe;
+* **Figma** – Ferramenta usada para o design das telas da aplicação;
+* **Trello** – Organização e acompanhamento das tarefas do grupo;
+* **Microsoft Office** – Ferramenta utilizada para elaborar a apresentação final do projeto ao cliente.
+
+#### 👨‍🔧 Contribuições Pessoais
+Contribuí ativamente no desenvolvimento da interface de criação de reembolsos, utilizando React Native com TypeScript, onde implementei a lógica de estado e controle dos campos dinâmicos para permitir ao usuário adicionar múltiplas despesas em um único envio. Essa funcionalidade incluiu validações em tempo real, tratamento de erros e integração com a API para persistência no banco de dados.
+
+Também fui responsável pela página de listagem de despesas, onde desenvolvi a exibição dos dados armazenados no banco SQL, consumindo uma API REST para exibir informações como: descrição da despesa, status do reembolso, data e valor. Implementei filtros básicos por data utilizando hooks e otimizei o carregamento para melhor desempenho em dispositivos móveis.
+
+
+#### 💻 Hard Skills
+Exercitei as seguintes hard skills durante esse projeto:
+*TypeScript: Uso com autonomia;
+*React Native: Uso com autonomia;
+*PostgreSQL: Uso com autonomia;
+*Consumo de API REST: Uso com autonomia.
+
+  
+#### 💬 Soft Skills
+Colaborei de forma proativa com a equipe para garantir a usabilidade das telas, sugerindo melhorias visuais e funcionais. Também exerci minha organização ao estruturar o desenvolvimento das funcionalidades em etapas claras e bem definidas. Além disso, contribuí no alinhamento técnico das funcionalidades com o restante do time, reforçando o entendimento dos requisitos levantados pelo Product Owner e propondo soluções práticas durante as reuniões de revisão.
 
 

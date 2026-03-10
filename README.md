@@ -203,4 +203,58 @@ Ao trabalhar na página de listagem de despesas, colaborei com o time na otimiza
 
 Também demonstrei proatividade ao antecipar potenciais gargalos de desempenho relacionados a requisições excessivas ou payloads volumosos, conduzindo discussões que resultaram em uma arquitetura mais eficiente e responsiva para o fluxo de dados.
 
+---
+
+### 📦 Quinto Projeto (2025-2)
+O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a Fatec São José dos Campos - Prof. Jessen Vidal.
+
+O problema central estava na dificuldade de acesso a orientações nutricionais personalizadas e de qualidade, tanto para indivíduos quanto para profissionais da área de saúde. A ausência de uma plataforma centralizada e inteligente dificultava o acompanhamento dos hábitos alimentares e a geração de recomendações contextualizadas.
+
+Como solução, foi desenvolvido o **Junipy**, uma aplicação web de nutrição digital que utiliza o modelo LLM medGemma para oferecer um assistente conversacional inteligente e personalizado. A plataforma coleta dados de saúde e hábitos alimentares dos usuários para gerar recomendações contextualizadas, funcionando como um suporte acessível tanto para indivíduos quanto para profissionais da área. O projeto foi conduzido por meio de metodologias ágeis, unindo tecnologia de ponta e bem-estar em uma interface intuitiva, promovendo o engajamento no cuidado com a saúde e facilitando o acompanhamento nutricional de qualidade.
+
+[🔗 Repositório da Junipy](https://github.com/Byte-Boost/Junipy)
+
+#### ⚙️ Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+
+* **Python** – Linguagem utilizada no desenvolvimento do back-end e integração com o modelo de IA;
+* **FastAPI** – Framework utilizado para construção da API do back-end em Python;
+* **Java e Spring Boot** – Linguagem e framework utilizados em serviços do back-end;
+* **Apache Maven** – Ferramenta de gerenciamento de dependências e build para projetos Java;
+* **Vue.js com Vite** – Framework e bundler utilizados na construção da interface web;
+* **TypeScript** – Linguagem utilizada no desenvolvimento do front-end;
+* **Axios** – Biblioteca utilizada para realizar requisições HTTP no front-end;
+* **MySQL** – Banco de dados relacional utilizado para persistência de dados;
+* **MongoDB** – Banco de dados não-relacional utilizado para armazenamento de dados não estruturados;
+* **Docker** – Plataforma utilizada para containerização e padronização do ambiente de desenvolvimento e produção;
+* **Google Agent Development Kit (ADK)** – Kit utilizado na construção do agente de IA;
+* **Hugging Face** – Plataforma utilizada para acesso ao modelo medGemma e outros recursos de IA;
+* **GitHub** – Utilizado para versionamento do código-fonte e colaboração entre os membros da equipe.
+
+#### 👨‍🔧 Contribuições Pessoais
+Nesse projeto atuei como Product Owner (PO). Mantive contato direto com o cliente para validar informações, levantar requisitos e esclarecer dúvidas, garantindo que o desenvolvimento estivesse sempre alinhado às expectativas e necessidades reais do projeto.
+
+Fui responsável pela criação e padronização de todas as tarefas e pela manutenção de uma documentação completa, registrando o andamento e o funcionamento do projeto de forma organizada e acessível para toda a equipe.
+
+Além das responsabilidades de PO, apoiei nos estágios iniciais do desenvolvimento da IA, contribuindo com a coleta e estruturação de dados a partir de documentos fornecidos pelo cliente. Também realizei diversos testes de acurácia para verificar e validar o desempenho do modelo, assegurando a qualidade das respostas geradas pelo assistente conversacional.
+
+#### 💻 Hard Skills
+Exercitei as seguintes hard skills durante esse projeto:
+* Python: Uso com autonomia;
+* FastAPI: Uso com autonomia;
+* Vue.js: Uso com ajuda;
+* TypeScript: Uso com autonomia;
+* Docker: Uso com ajuda;
+* MySQL: Uso com autonomia;
+* MongoDB: Uso com ajuda;
+* Google ADK: Uso com ajuda;
+* GitHub: Uso com autonomia.
+
+#### 💬 Soft Skills
+Atuando como PO, exercitei intensamente minha comunicação ao manter contato direto e contínuo com o cliente, conduzindo reuniões de validação, esclarecendo requisitos e garantindo que o feedback recebido fosse traduzido em ações claras para a equipe de desenvolvimento.
+
+Também utilizei minha organização para padronizar toda a criação de tarefas e manter a documentação do projeto sempre atualizada e estruturada, o que facilitou o acompanhamento do progresso por todos os membros da equipe e pelo próprio cliente.
+
+Ao apoiar os estágios iniciais da IA e realizar os testes de acurácia, demonstrei proatividade ao ir além das responsabilidades típicas de um PO, contribuindo tecnicamente para a qualidade do produto. Essa postura colaborativa foi essencial para identificar inconsistências no desempenho do modelo e propor ajustes que melhoraram a precisão das respostas do assistente.
+
 

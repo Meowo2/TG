@@ -19,6 +19,9 @@ Entre todos meus conhecimentos, se destacam:
 * Python
 * MySQL
 * NodeJs
+* FastApi
+* Docker
+* Linux
 * Gradle
 
 ## 📚 Meus Projetos
@@ -256,5 +259,54 @@ Atuando como PO, exercitei intensamente minha comunicação ao manter contato di
 Também utilizei minha organização para padronizar toda a criação de tarefas e manter a documentação do projeto sempre atualizada e estruturada, o que facilitou o acompanhamento do progresso por todos os membros da equipe e pelo próprio cliente.
 
 Ao apoiar os estágios iniciais da IA e realizar os testes de acurácia, demonstrei proatividade ao ir além das responsabilidades típicas de um PO, contribuindo tecnicamente para a qualidade do produto. Essa postura colaborativa foi essencial para identificar inconsistências no desempenho do modelo e propor ajustes que melhoraram a precisão das respostas do assistente.
+
+---
+ 
+### 📦 Sexto Projeto (2026-1)
+O projeto desenvolvido no sexto semestre do curso teve como empresa parceira o Exército - Guarnição de Caçapava.
+ 
+O problema central estava na ineficiência do processo de elaboração de documentações técnicas CAD, que exigia trabalho manual extenso, era suscetível a erros humanos e carecia de padronização conforme as normas vigentes. A ausência de uma ferramenta integrada para automatizar esse fluxo comprometia a produtividade dos projetistas e a qualidade dos documentos entregues.
+ 
+Como solução, foi desenvolvido o **CADê**, uma aplicação web que automatiza a elaboração de documentações técnicas a partir de plantas em formato CAD. A plataforma utiliza agentes de inteligência artificial para extrair parâmetros automaticamente, gerar Memoriais de Cálculo e Especificações Técnicas conforme as normas ABNT, cruzar a lista de materiais com um banco de preços e oferecer uma interface conversacional para consultas em linguagem natural. O projeto integra modelagem de dados relacional complexa com padrões de projeto modernos e metodologias ágeis, entregando uma ferramenta confiável e eficiente para o fluxo de trabalho técnico.
+ 
+[🔗 Repositório do CADê](https://github.com/SoftWorksAPI/CADe)
+ 
+#### ⚙️ Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto:
+ 
+* **Next.js e React** – Framework e biblioteca utilizados na construção da interface web;
+* **TypeScript** – Linguagem utilizada no desenvolvimento do front-end;
+* **JavaScript** – Linguagem utilizada no desenvolvimento do back-end;
+* **Node.js e Express** – Ambiente de execução e framework utilizados na construção da API REST;
+* **MySQL** – Banco de dados relacional utilizado para persistência e organização das informações, modelado até a 3ª Forma Normal (3FN);
+* **Python** – Linguagem utilizada na integração com os agentes de IA;
+* **FastAPI** – Framework utilizado para exposição dos serviços de inteligência artificial;
+* **GitHub** – Utilizado para versionamento do código-fonte e colaboração entre os membros da equipe;
+* **VSCode** – IDE utilizada no desenvolvimento.
+#### 👨‍🔧 Contribuições Pessoais
+Nesse projeto atuei como Scrum Master. Fui responsável por facilitar as cerimônias ágeis da equipe — planning, daily, review e retrospectiva —, garantindo que os rituais fossem realizados de forma eficiente e que os impedimentos fossem identificados e removidos com agilidade.
+ 
+No back-end, desenvolvi boa parte da API em Node.js com Express, implementando os módulos de administração de banco de dados, gerenciamento de usuários, projetos e relatórios gerados, além do consumo do serviço Python. Também fui responsável pelo back-end em Python com FastAPI, desenvolvendo toda a lógica de extração de dados dos arquivos CAD, integração com os agentes de IA para geração de relatórios e a interface de interação em linguagem natural com o sistema.
+ 
+No front-end, reformulei a interface da aplicação, entregando um visual moderno e mais alinhado aos requisitos do cliente.
+ 
+Acompanhei o progresso das sprints e apoiei o alinhamento entre os membros do time, promovendo um ambiente colaborativo e focado na entrega de valor.
+ 
+#### 💻 Hard Skills
+Exercitei as seguintes hard skills durante esse projeto:
+* Next.js: Uso com ajuda;
+* React: Uso com ajuda;
+* TypeScript: Uso com autonomia;
+* Node.js: Uso com autonomia;
+* Express: Uso com autonomia;
+* MySQL: Uso com autonomia;
+* Python: Uso com autonomia;
+* FastAPI: Uso com autonomia;
+* GitHub: Uso com autonomia.
+#### 💬 Soft Skills
+Atuando como Scrum Master, exercitei minha liderança ao facilitar as cerimônias ágeis e garantir que a equipe mantivesse o foco nas entregas prioritárias de cada sprint. Em momentos de sobrecarga, realizei conversas individuais para redistribuir tarefas e preservar o ritmo sustentável do time.
+ 
+Também utilizei minha comunicação para mediar decisões técnicas entre os membros da equipe, especialmente nos pontos de integração entre o serviço de IA em Python e a API Node.js, onde havia divergências sobre contratos de dados. Facilitei o alinhamento entre as partes envolvidas, resultando em uma solução consistente e acordada por todos.
+
 
 

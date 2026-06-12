@@ -209,7 +209,7 @@ Também demonstrei proatividade ao antecipar potenciais gargalos de desempenho r
 ---
 
 ### 📦 Quinto Projeto (2025-2)
-O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a Fatec São José dos Campos - Prof. Jessen Vidal.
+O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a Xertica.
 
 O problema central estava na dificuldade de acesso a orientações nutricionais personalizadas e de qualidade, tanto para indivíduos quanto para profissionais da área de saúde. A ausência de uma plataforma centralizada e inteligente dificultava o acompanhamento dos hábitos alimentares e a geração de recomendações contextualizadas.
 
